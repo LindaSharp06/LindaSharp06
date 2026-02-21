@@ -1,43 +1,39 @@
-# 👩‍💻 Hi, I'm Linda Sharp 👋
+# 👩‍💻 Hi, I'm LindaSharp06 👋
 
-I'm a **Senior Web Developer** with a passion for building scalable and efficient web applications.  
-I specialize in **Frontend and Backend development**, with expertise in technologies like **React, Node.js, TypeScript, WordPress**, and more.
-
-I love creating intuitive user interfaces and optimizing code for performance.
+I'm a **Senior Web Developer** passionate about building scalable web applications.  
+I specialize in both **Frontend and Backend** development, with a strong focus on performance optimization and scalability. I work with modern tools and technologies like **React, Node.js, Next.js, TypeScript, Docker**, and more.
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Skills & Technologies
 
-I’m a **female developer** passionate about **empowering women in tech**.  
-I believe in **diversity, inclusivity**, and building **intuitive user experiences**. My goal is to **continuously improve** my skill set and contribute to open-source projects.
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vuejs,typescript" />
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb" />
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,webpack,vscode" />
+</p>
+
+### **Design & UI/UX**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,adobe" />
+</p>
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;WordPress+%7C+Next.js+%7C+Vue.js;Node.js+%7C+TypeScript+%7C+Docker;Building+Scalable+Web+Applications" />
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,nodejs,wordpress,reactnative,docker,mysql,git" />
-</div>
-
----
-
-## 📸 My Work
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LindaSharp06&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-
----
-
-## 🧠 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaSharp06&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LindaSharp06&show_icons=true&count_private=true&hide=prs&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LindaSharp06&theme=tokyonight" />
 </div>
 
 ---
@@ -54,10 +50,3 @@ I believe in **diversity, inclusivity**, and building **intuitive user experienc
 
 - 📱 Telegram: [@lindasharp07](tg://@lindasharp07)
 - ✉️ Email: [linda0729sharp@outlook.com](mailto:linda0729sharp@outlook.com)
-
----
-
-## 🏆 Fun Fact
-
-- I'm passionate about **empowering women in tech** and believe in a **diverse and inclusive community**.
-- I constantly strive to **learn** and **grow** my skills, and I love contributing to **open-source projects**.
