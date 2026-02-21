@@ -1,36 +1,58 @@
-# 👋 Hi, I'm LindaSharp06
+# 👋 Hi, I'm Linda Sharp
 
-### 🧑‍💻 Web Developer | Frontend Enthusiast | Passionate about learning new technologies
-
----
-
-## 🚀 Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,wordpress,nextjs,vuejs,reactnative,docker" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;WordPress+%7C+Next.js+%7C+Vue.js;Node.js+%7C+TypeScript+%7C+Docker;Building+Scalable+Web+Applications" />
+</div>
 
 ---
 
-## 💻 Tools & Technologies
+## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,gitlab,webpack,jest,markdown" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,nodejs,wordpress,reactnative,docker,mysql,git" />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LindaSharp06&show_icons=true&count_private=true&hide=prs)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaSharp06&layout=compact&hide=html,css)
+</div>
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Activity & Stats
 
-- 📱 Telegram: [@lindasharp07](tg://@lindasharp07)
-- ✉️ Email: [linda0729sharp@outlook.com](mailto:linda0729sharp@outlook.com)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LindaSharp06&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LindaSharp06&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🧠 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaSharp06&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LindaSharp06&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+- Telegram: **@lindasharp07**
+- Email: **linda0729sharp@outlook.com**
+
+---
+
+⭐ Always building. Always improving.
