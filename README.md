@@ -1,4 +1,7 @@
 # 👩‍💻 Hi, I'm Linda Sharp 👋
+<p align="center">
+  <img src="./fullstack.png" width="700"/>
+</p>
 
 I'm a **Senior Web Developer** with over 5 years of experience in **Frontend and Backend development**.  
 I specialize in **building scalable, high-performance web applications** and delivering smooth user experiences. Passionate about **technology, innovation**, and **solving complex challenges**, I have worked with a variety of tools and technologies to create optimized solutions for businesses and end-users.
