@@ -4,9 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Building+scalable+web+systems" />
 </p>
-I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
+## 🚀 About Me
 
-I specialize in creating modern user interfaces, optimizing system performance, and architecting robust backend infrastructures. Passionate about innovation and clean architecture, I focus on delivering reliable, user-centered digital solutions.
+Senior Full-Stack Developer with 5+ years of commercial experience in high-load web applications and scalable backend systems.
+Skilled in designing REST APIs, database architecture, and performance optimization. Strong focus on clean architecture, maintainable code, and reliable production environments.
+Able to analyze existing codebases, improve system stability, and deliver efficient solutions aligned with business requirements.
 ## 🛠 Tech Stack
 
 ### 🎨 **Frontend Development**
