@@ -4,12 +4,9 @@
 
 <h1 align="center">👩‍💻 Linda Sharp</h1>
 
-<h3 align="center">
-  🚀 Senior Full Stack Developer | React • Node.js • MongoDB • AWS
-</h3>
-
 <p align="center">
-  Building scalable, high-performance web applications with modern technologies.
+  <b>🚀 Senior Full Stack Developer</b>  
+  <i>Building scalable, high-performance web applications with modern technologies.</i>
 </p>
 
 <p align="center">
