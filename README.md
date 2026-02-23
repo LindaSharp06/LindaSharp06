@@ -5,13 +5,10 @@
 <p align="center">
   <img src="./fullstack.png" width="850"/>
 </p>
-## 🚀 About Me
+
 I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
 
 I specialize in creating modern user interfaces, optimizing system performance, and architecting robust backend infrastructures. Passionate about innovation and clean architecture, I focus on delivering reliable, user-centered digital solutions.
-
-
----
 
 ## 🛠 Tech Stack
 
