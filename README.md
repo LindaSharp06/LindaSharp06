@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./fullstack.png" width="700"/>
+  <img src="./fullstack.png"/>
 </p>
 # 👩‍💻 Hi, I'm Linda Sharp 👋
 
