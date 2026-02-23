@@ -23,9 +23,7 @@ I specialize in creating modern user interfaces, optimizing system performance, 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
-
 ---
-
 ### ⚙ **Backend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -36,9 +34,7 @@ I specialize in creating modern user interfaces, optimizing system performance, 
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
-
 ---
-
 ### 🗄 **Database**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
