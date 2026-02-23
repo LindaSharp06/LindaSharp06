@@ -1,8 +1,6 @@
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LindaSharp06&style=for-the-badge&color=blue"/>
-</p>
-<p align="center">
-  <img src="./fullstack.png" hight="500" width="800"/>
+  <img src="./fullstack.png" height="500" width="800"/>
 </p>
 # 👩‍💻 Hi, I'm Linda Sharp 👋
 
