@@ -2,7 +2,7 @@
   <img src="./fullstack.png" width="900" height="500"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Building+scalable,+high-performance+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Building+scalable+web+systems" />
 </p>
 I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
 
