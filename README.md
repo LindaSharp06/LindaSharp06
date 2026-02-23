@@ -5,16 +5,16 @@
 <h1 align="center">👩‍💻 Linda Sharp</h1>
 
 <p align="center">
-  <b>🚀 Senior Full Stack Developer</b>  
-  <i>Building scalable, high-performance web applications with modern technologies.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Building+scalable,+high-performance+web+applications+with+modern+technologies." />
 </p>
 
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Building+scalable,+high-performance+web+applications+with+modern+technologies." />
-</p>
+I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
+
+I specialize in creating modern user interfaces, optimizing system performance, and architecting robust backend infrastructures. Passionate about innovation and clean architecture, I focus on delivering reliable, user-centered digital solutions.
+
 
 ---
 
