@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./fullstack.png" width="850"/>
+  <img src="./fullstack.png" width="900" height="500"/>
 </p>
 
 I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
