@@ -1,76 +1,101 @@
+<p align="center">
+  <img src="./fullstack.png" width="900"/>
+</p>
+
+<h1 align="center">👩‍💻 Linda Sharp</h1>
+
+<h3 align="center">
+  🚀 Senior Full Stack Developer | React • Node.js • MongoDB • AWS
+</h3>
 
 <p align="center">
-  <img src="./fullstack.png" height="500" width="800"/>
+  Building scalable, high-performance web applications with modern technologies.
 </p>
-# 👩‍💻 Hi, I'm Linda Sharp 👋
 
-I'm a **Senior Web Developer** with over 5 years of experience in **Frontend and Backend development**.  
-I specialize in **building scalable, high-performance web applications** and delivering smooth user experiences. Passionate about **technology, innovation**, and **solving complex challenges**, I have worked with a variety of tools and technologies to create optimized solutions for businesses and end-users.
-
----
-
-## 🚀 What I Do
-
-### **Frontend Development**
-I have strong expertise in crafting dynamic and interactive **user interfaces**.  
-I’ve built numerous web applications using:
-
-- **React** & **Next.js** for building **responsive, high-performance applications**.
-- **Vue.js** for developing scalable, maintainable projects.
-- **TypeScript**, **JavaScript**, **HTML5**, and **CSS3** to bring designs to life.
-
-### **Backend Development**
-With a focus on building robust backend architectures, I’ve worked extensively with:
-
-- **Node.js** and **Express.js** for creating scalable APIs.
-- **MongoDB** and **MySQL** for designing high-availability databases.
-- **WordPress** for creating custom plugins and themes, leveraging PHP and the **REST API**.
-- **Docker** for containerization and easy deployment.
-
-### **Full Stack Web Development**
-I combine both **frontend** and **backend** expertise to build full-stack applications, managing both server-side and client-side logic.
-
-- Experience integrating **React Native** for **cross-platform mobile applications**.
-- Knowledge in **GraphQL** for handling complex data requests efficiently.
-- Understanding of **CI/CD pipelines**, and **cloud solutions** using **AWS**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LindaSharp06&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## 💡 Why I Do It
+## 🚀 About Me
 
-I am passionate about creating intuitive user interfaces, **optimizing performance**, and building applications that are both functional and easy to use.  
-I constantly look for **new technologies** and **methods** to improve the way we build software, and I am committed to providing high-quality, **user-centered products**.
+I’m a **Senior Web Developer** with 5+ years of experience designing and building **scalable, high-performance applications** across frontend and backend systems.
 
-I believe in continuous learning and **contributing to the tech community**, which is why I actively contribute to **open-source projects** and collaborate with other developers. 
+I specialize in creating modern user interfaces, optimizing system performance, and architecting robust backend infrastructures. Passionate about innovation and clean architecture, I focus on delivering reliable, user-centered digital solutions.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## 💼 What I Do
+
+### ⚡ Frontend Development
+- Building responsive and high-performance applications using **React**, **Next.js**, and **Vue.js**
+- Developing scalable UI architectures with **TypeScript**
+- Creating intuitive, user-focused experiences
+
+### 🔧 Backend Development
+- Designing scalable APIs with **Node.js** and **Express.js**
+- Managing databases with **MongoDB** and **MySQL**
+- Implementing containerized deployments using **Docker**
+
+### 🌐 Full Stack Engineering
+- End-to-end application development (client + server)
+- API integrations and system optimization
+- CI/CD pipelines and cloud deployment with **AWS**
+- Cross-platform mobile development with **React Native**
+- Efficient data handling using **GraphQL**
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LindaSharp06&show_icons=true&count_private=true&hide=prs&theme=tokyonight" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LindaSharp06&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
 ## 🧠 Most Used Languages
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaSharp06&layout=compact&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
-## 🏆 Contribution Graph
+## 🏆 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LindaSharp06&theme=tokyo-night" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LindaSharp06&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-- 📱 Telegram: [@lindasharp07](tg://@lindasharp07)
-- ✉️ Email: [linda0729sharp@outlook.com](mailto:linda0729sharp@outlook.com)
+<p align="center">
+
+📱 Telegram: https://t.me/lindasharp07  
+✉️ Email: linda0729sharp@outlook.com  
+
+</p>
