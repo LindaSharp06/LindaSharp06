@@ -9,10 +9,6 @@
   <i>Building scalable, high-performance web applications with modern technologies.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LindaSharp06&style=for-the-badge&color=blue"/>
-</p>
-
 ---
 
 ## 🚀 About Me
