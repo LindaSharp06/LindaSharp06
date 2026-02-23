@@ -1,11 +1,11 @@
+<h1 align="center">Linda Sharp</h1>
+
 <p align="center">
-  <img src="./fullstack.png" width="900" height="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Scalable+%7C+High-Performance+%7C+Modern+Web+Apps" />
 </p>
 
-<h1 align="center">👩‍💻 Linda Sharp</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Building+scalable,+high-performance+web+applications+with+modern+technologies." />
+  <img src="./fullstack.png" width="850"/>
 </p>
 
 ---
