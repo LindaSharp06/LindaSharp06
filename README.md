@@ -94,7 +94,7 @@ Able to analyze existing codebases, improve system stability, and deliver effici
 
 <p align="center">
 
-📱 Telegram: https://t.me/lindasharp07  
-✉️ Email: linda0729sharp@outlook.com  
+📱 Telegram: https://t.me/lindasharp00 
+✉️ Email: lindasharp0729r@gmail.com
 
 </p>
