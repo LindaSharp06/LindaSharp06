@@ -88,13 +88,4 @@ Able to analyze existing codebases, improve system stability, and deliver effici
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LindaSharp06&theme=tokyonight" />
 </p>
 
----
 
-## 📫 Contact
-
-<p align="center">
-
-📱 Telegram: https://t.me/lindasharp00 
-✉️ Email: lindasharp0729r@gmail.com
-
-</p>
